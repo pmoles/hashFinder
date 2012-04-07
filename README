@@ -1,0 +1,4 @@
+INSTALATION:
+	Copy the script wherever you want
+USAGE:
+	python %PATH_TO_THE_SCRIPT%/hashFinder.py
